@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="center">A driven and dedicated developer, turning ideas into applications</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 - 🔭 I’m currently working on **ERP Systems**
-- 🌱 I’m currently learning **and keeping abreast emerging technologies, software trends and applying them to projects**
+- 🌱 I’m currently learning **and keeping abreast with emerging technologies, software trends and applying them to projects**
 
 - 👯 I’m looking to collaborate on **Open Source and real-world experience as a developer**
 
