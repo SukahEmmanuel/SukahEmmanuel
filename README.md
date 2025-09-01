@@ -29,7 +29,7 @@
 
 ---
 #### 🦾 Software
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,go,cs,dotnet,php,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,go,cs,dotnet,php,py,nginx,flutter,)](https://skillicons.dev)
 
 ---
 #### 🧬 Tools & Frameworks & Libraries
