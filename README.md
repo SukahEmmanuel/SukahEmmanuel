@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="center">A driven and dedicated developer, turning ideas into applications</h3>
 
-- 🔭 I’m currently working on **ERP Systems**
-- 🌱 I’m currently learning **and keeping abreast with emerging technologies, software trends and applying them to projects**
-
 - 👯 I’m looking to collaborate on **Open Source and real-world experience as a developer**
 
 - 💬 Ask me about ** Backend Development, Web Development, Mobile Development, Database Development and integrations, API Integrations,  Javascript, PHP, Golang, Typescript, React, Next, React Native, and **MERN**
